@@ -8,6 +8,7 @@ Muy útil para usuarios con dificultades visuales.
 
 # Aspectos Interesantes: Teclas útiles de Virtual Magnifying Glass (vmg)
 
+<MTMarkdownOptions output='raw'>
 [ ENTER ] or [ ESC ] --> Hides the glass
 Q --> Closes the application
 Up --> Arrow Increases the lens height
@@ -25,5 +26,5 @@ B --> Activates and Deactivates the graphical border
 [MOUSE WHELL DOWN] --> Decrease the magnification in small steps
 + --> Increase the magnification in small steps
 - --> Decrease the magnification in small steps
-
+</MTMarkdownOptions>
 
